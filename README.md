@@ -1,10 +1,10 @@
 ## Olá, Meu nome é Dalton Campos e eu sou estudante de TI pela Universidade Federal Rural do Semi-Árido.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/DaltonFCampos">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=DaltonFCampos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&title_color=cec7b6&text_color=94a1ab&icon_color=66606e"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonFCampos&layout=compact&langs_count=7&theme=onedark&title_color=cec7b6&text_color=94a1ab&icon_color=66606e"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dalton-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
